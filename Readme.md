@@ -18,7 +18,6 @@
 
 ## Put This ox_inventory/data/item.lua
 --------------------------------------Side Job ------------------------------------------------
-
 	['apple'] = {
 		label = 'Apple',
 		weight = 50,
@@ -29,6 +28,7 @@
 			usetime = 2500,
 		},
 	},
+
 	['orange'] = {
 		label = 'Orange',
 		weight = 50,
@@ -39,6 +39,7 @@
 			usetime = 2500,
 		},
 	},
+	
 	['gauva'] = {
 		label = 'Gauva',
 		weight = 50,
@@ -63,10 +64,14 @@
 		label = 'Tomato',
 		weight = 50,
 	},
+
+	
+
 	['lumber'] = {
 		label = 'Lumber',
-		weight = 2000,
+		weight = 1700,
 	},
+
 	['woodplank'] = {
 		label = 'Woodplank',
 		weight = 700,
@@ -75,22 +80,25 @@
 		label = 'Treebark',
 		weight = 700,
 	},
+
+
 	['yellowfin'] = {
 		label = 'Yellowfin',
-		weight = 1700,
+		weight = 500,
 	},
 	['salmon'] = {
 		label = 'Salmon',
-		weight = 1700,
+		weight = 500,
 	},
 	['pigfish'] = {
 		label = 'Pigfish',
-		weight = 1700,
+		weight = 500,
 	},	
 	['stripedbass'] = {
 		label = 'Stripedbass',
-		weight = 1700,
+		weight = 500,
 	},
+
 	['stone'] = {
 		label = 'Stone',
 		weight = 900,
@@ -99,18 +107,25 @@
 		label = 'WashStone',
 		weight = 200,
 	},
+
 	['copper'] = {
 		label = 'Copper',
 		weight = 200,
 	},
+
+
 	['steel'] = {
 		label = 'Steel',
 		weight = 200,
 	},
+
+
 	['iron'] = {
 		label = 'Iron',
 		weight = 200,
 	},
+
+
 	['emerald'] = {
 		label = 'Emerald',
 		weight = 200,
@@ -149,6 +164,7 @@
 		label = 'Axe',
 		weight = 860,
 	},
+
 
 ## Put This /ox_inventory/data/shop.lua
     SideJobShop = {
