@@ -17,7 +17,6 @@
 
 
 ## Put This ox_inventory/data/item.lua
---------------------------------------Side Job ------------------------------------------------
 	['apple'] = {
 		label = 'Apple',
 		weight = 50,
