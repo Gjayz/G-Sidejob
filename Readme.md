@@ -151,7 +151,6 @@
 	},
 
 ## Put This /ox_inventory/data/shop.lua
-  --------------------------------------Side Job Shop ------------------------------------------------
     SideJobShop = {
         name = 'SideJob Shop',
         blip = {
